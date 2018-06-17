@@ -1,8 +1,5 @@
 package com.company;
 
-import java.io.EOFException;
-import java.util.InputMismatchException;
-import java.util.NoSuchElementException;
 import java.util.Scanner;
 
 public class Main {
